@@ -1,0 +1,11 @@
+{
+    "name": "com.happytuk.mytool",
+    "version": "1.0.0",
+    "displayName": "MyTool",
+    "description": "我的工具",
+    "unity": "6000.3",
+    "author":{
+        "name":"mike",
+        "email":"mike@happytuk.com"
+    }
+}
